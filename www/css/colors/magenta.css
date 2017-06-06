@@ -9,43 +9,43 @@ Template:	Mobix - Mobile Web APP Template
 /* MAIN COLOR */
 /*===============================================*/	
 a, blockquote span {
-color: #833545;
+color: #0D2340;
 }
 a.button_full, a.button_small, .call_button a{
-background-color:#833545; 
+background-color:#0D2340; 
 }
 .button {
-border: 1px solid #833545;
-color: #833545;
+border: 1px solid #0D2340;
+color: #0D2340;
 }
 .button.active {
-background: #833545;
+background: #0D2340;
 }
 #pages_maincontent h3{
-color:#833545;
+color:#0D2340;
 }
 .photo-categories a.active{
-background-color:#833545;
+background-color:#0D2340;
 }
 .post_date{
-color:#833545;
+color:#0D2340;
 }
 .list-block .swipeout-actions-left a,
 .list-block .swipeout-actions-right a {
-background: #833545;
+background: #0D2340;
 }
 .contactform input.form_submit, .loginform input.form_submit, .commentform input.form_submit{ 
-background-color:#833545;
+background-color:#0D2340;
 }
 ul.responsive_table li:first-child{
-background-color:#833545;
+background-color:#0D2340;
 color:#FFFFFF;
 }
 li.table_row{
 background-color:#e6e6e6;
 }
 .blog_nav a{
-background-color:#833545;
+background-color:#0D2340;
 }
 
 /*===============================================*/
@@ -83,7 +83,9 @@ color:#c6a0b1;
 background: #49182d;
 }
 .popup-login, .popup-signup, .popup-forgot{
-background-color:#263239;
+/*background-color:#263239;*/
+background: url(../../images/colors/magenta/bg.jpg) center center;
+
 }
 .toolbar:before {
   background-color: #49182d;
@@ -94,20 +96,20 @@ background-color:#263239;
   background: #49182d;
 }
 /*===============================================*/
-/* LEFT AND RIGHT SLIDE PANEL */
-/*===============================================*/	
+/* LEFT AND RIGHT SLIDE PANELbackground:#873a48; */
+/*===============================================*/
 .panel {
-background:#873a48;
+background:#3A4C69;
 }
 .user-nav ul li, ul.popular_posts li{
 border-bottom:1px #9b4d5b solid;
 }
 /* MENU OPENER ICON */
 ul.toolbar_icons li.menuicon{
-background-color:#873a48;
+background-color:#3A4C69;
 }
 
 /* PANEL CLOSE BUTTON */
 .close_popup_button a{
-background-color:#873a48;
+background-color:#3A4C69;
 }

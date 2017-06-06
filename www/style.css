@@ -218,11 +218,11 @@ background:url(images/trans_black_gradient.png) repeat-x;
 .user_details p{
 padding:70px 0 0 10px;
 text-align:left;
-font-size:14px;
+font-size:12px;
 }
 .user_details p span{
 display:block;
-font-size:22px;
+font-size:18px;
 padding:5px 0 0 0;
 }
 .user_social{

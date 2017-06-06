@@ -70,7 +70,7 @@ background:url(../../images/colors/magenta/header.jpg) no-repeat center center;
 /* MAIN NAV LINKS */
 /*===============================================*/	
 .main-nav ul li{
-background: #562037;
+background: #0d2340;
 border-bottom:1px #692c46 solid;
 }
 .main-nav ul li a{
@@ -80,7 +80,7 @@ color:#c6a0b1;
 /* POPUPS AND TOOLBAR */
 /*===============================================*/	
 .popup, .page_content_menu{
-background: #49182d;
+background: #FFFFFF;
 }
 .popup-login, .popup-signup, .popup-forgot{
 /*background-color:#263239;*/
@@ -88,12 +88,12 @@ background: url(../../images/colors/magenta/bg.jpg) center center;
 
 }
 .toolbar:before {
-  background-color: #49182d;
+  background-color: #000000;
 }
 .navbar,
 .toolbar,
 .subnavbar {
-  background: #49182d;
+  background: #000000;
 }
 /*===============================================*/
 /* LEFT AND RIGHT SLIDE PANELbackground:#873a48; */
